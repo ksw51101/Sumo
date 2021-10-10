@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+    <input>
+        <net-file value="project.net.xml"/>
+        <route-files value="project.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="54900"/>
+    </time>
+    <collision.action value="warn"/>
+    <collision.mingap-factor value="-1"/>
+</configuration>

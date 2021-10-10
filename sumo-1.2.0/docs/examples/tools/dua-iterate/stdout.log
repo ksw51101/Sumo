@@ -1,0 +1,71 @@
+> Executing step 0
+>> Running router on input_trips.trips.xml
+>>> Begin time: 2019-04-16 00:14:41.518628
+>>> End time: 2019-04-16 00:14:41.588525
+>>> Duration: 0:00:00.069897
+<<
+>> Running simulation
+>>> Begin time: 2019-04-16 00:14:41.588597
+>>> End time: 2019-04-16 00:14:41.644842
+>>> Duration: 0:00:00.056245
+<<
+< Step 0 ended (duration: 0:00:00.126330)
+------------------
+
+> Executing step 1
+>> Running router on input_trips_000.rou.alt.xml
+>>> Begin time: 2019-04-16 00:14:41.647488
+>>> End time: 2019-04-16 00:14:41.706564
+>>> Duration: 0:00:00.059076
+<<
+>> Running simulation
+>>> Begin time: 2019-04-16 00:14:41.706637
+>>> End time: 2019-04-16 00:14:41.762180
+>>> Duration: 0:00:00.055543
+<<
+< Step 1 ended (duration: 0:00:00.114816)
+------------------
+
+> Executing step 2
+>> Running router on input_trips_001.rou.alt.xml
+>>> Begin time: 2019-04-16 00:14:41.824855
+>>> End time: 2019-04-16 00:14:41.874556
+>>> Duration: 0:00:00.049701
+<<
+>> Running simulation
+>>> Begin time: 2019-04-16 00:14:41.874629
+>>> End time: 2019-04-16 00:14:41.943555
+>>> Duration: 0:00:00.068926
+<<
+< Step 2 ended (duration: 0:00:00.118844)
+------------------
+
+> Executing step 3
+>> Running router on input_trips_002.rou.alt.xml
+>>> Begin time: 2019-04-16 00:14:41.945316
+>>> End time: 2019-04-16 00:14:41.991062
+>>> Duration: 0:00:00.045746
+<<
+>> Running simulation
+>>> Begin time: 2019-04-16 00:14:41.991131
+>>> End time: 2019-04-16 00:14:42.044598
+>>> Duration: 0:00:00.053467
+<<
+< Step 3 ended (duration: 0:00:00.099407)
+------------------
+
+> Executing step 4
+>> Running router on input_trips_003.rou.alt.xml
+>>> Begin time: 2019-04-16 00:14:42.046641
+>>> End time: 2019-04-16 00:14:42.091729
+>>> Duration: 0:00:00.045088
+<<
+>> Running simulation
+>>> Begin time: 2019-04-16 00:14:42.091799
+>>> End time: 2019-04-16 00:14:42.146069
+>>> Duration: 0:00:00.054270
+<<
+< Step 4 ended (duration: 0:00:00.099545)
+------------------
+
+dua-iterate ended (duration: 0:00:00.635987)
